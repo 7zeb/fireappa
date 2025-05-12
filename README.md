@@ -8,11 +8,9 @@ status: ✅✅
 
 # Fracital
 Another website made with the Ultraviolet backend by TitaniumNetwork & caracal-js
+forked by: 7Zeb
 
 https://fracital.dev
-
-[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/bePatron?u=69596646)
-
 # Supports
 - **Any static site**
 - **Discord**
